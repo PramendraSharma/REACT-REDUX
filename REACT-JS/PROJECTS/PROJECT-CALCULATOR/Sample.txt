@@ -1,0 +1,4 @@
+This Calculator project is made by me when I was learning React-Js. 
+This project will help you understand the topic of components and other things used in React.
+Also I have imported the bootstrap library to avoid the jumbling of multiple files such that everyone including me can understand its working easily...
+:)..
