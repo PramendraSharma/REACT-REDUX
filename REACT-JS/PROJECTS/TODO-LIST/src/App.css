@@ -1,0 +1,31 @@
+*{
+    align-items: center;
+}
+
+
+
+.Appname {
+    font-weight: 900;
+    font-size: 60px;
+    margin: 22px;
+    margin-bottom: 30px;
+
+}
+
+input{
+    width: 100;
+
+}
+
+.items{
+    text-align: left;
+}
+
+.our-row{
+    margin: 10px 5px;
+}
+
+.our-button{
+
+    min-width: 80px;
+}
