@@ -1,0 +1,18 @@
+[
+  {
+    "role": "rolename",
+    "organisation": "organization-name",
+    "startDate": "Nov, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": ["Made production level HTML/CSS structure for webpages", "Contributed to designing posters and content for the said web pages"]
+    
+  },
+  {
+    "role": "SHOER",
+    "organisation": "SOINT",
+    "startDate": "Mar, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": ["Handling Form-filling", "Maintaining Excel data of transactions"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
