@@ -1,1 +1,2 @@
-hero images
+upload or save your hero image in this folder named hero: 
+Tip: save its name as- heroImage.png
