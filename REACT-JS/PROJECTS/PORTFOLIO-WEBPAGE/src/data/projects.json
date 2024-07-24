@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Myntra Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project in which a clone of Myntra is made by me. It is fully functional website/web-application",
+    "skills": ["React", "Bootstrap", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.png",
+    "description": "This project is created to represent the portfolio of mine (Pramendra Sharma) to others in a very creative way.",
+    "skills": ["React", "Node", "Figma"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Calculator Web Application",
+    "imageSrc": "projects/project.png",
+    "description": "This project is made to show a normal calculator.",
+    "skills": ["React", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/PramendraSharma/PramendraSharma/tree/main/REACT-JS/PROJECTS/PROJECT-CALCULATOR"
+  },
+  {
+    "title": "To-Do List Web Application",
+    "imageSrc": "projects/project.png",
+    "description": "This project is made to show a interface where a person can save their daily task and delete it after completing the task.",
+    "skills": ["React", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/PramendraSharma/PramendraSharma/tree/main/REACT-JS/PROJECTS/TODO-LIST"
+  },
+  {
+    "title": "Bharat Clock Web Application",
+    "imageSrc": "projects/project.png",
+    "description": "This project is made to show a Clock which shows time for Bharat from any corner that it is used.",
+    "skills": ["React", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/PramendraSharma/PramendraSharma/tree/main/REACT-JS/PROJECTS/BHARAT-CLOCK"
+  },
+  {
+    "title": "COUNTER-USING REACT+REDUX",
+    "imageSrc": "projects/project.png",
+    "description": "This project is made to show a counter which can add or substract values and also have a making counter blank.",
+    "skills": ["React", "Bootstrap", "Redux", "Redux-ToolKit"],
+    "demo": "https://www.example.com",
+    "source": ""
+  }
+]
